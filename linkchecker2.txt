@@ -6,7 +6,7 @@ certain conditions. Look at the file `LICENSE' within this distribution.
 Read the documentation at https://linkchecker.github.io/linkchecker/
 Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
 
-Start checking at 2022-10-14 13:02:06+005
+Start checking at 2022-10-14 14:36:21+005
 
 Statistics:
 Downloaded: 0B.
@@ -14,21 +14,4 @@ Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 1 ot
 URL lengths: min=40, max=370, avg=205.
 
 That's it. 2 links in 7 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2022-10-14 13:02:09+005 (3 seconds)
-LinkChecker 10.1.0
-Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it under
-certain conditions. Look at the file `LICENSE' within this distribution.
-Read the documentation at https://linkchecker.github.io/linkchecker/
-Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
-
-Start checking at 2022-10-14 14:12:39+005
-
-Statistics:
-Downloaded: 0B.
-Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 1 other.
-URL lengths: min=40, max=368, avg=204.
-
-That's it. 2 links in 7 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2022-10-14 14:12:42+005 (2 seconds)
+Stopped checking at 2022-10-14 14:36:25+005 (4 seconds)
